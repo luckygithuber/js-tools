@@ -1,0 +1,22 @@
+{
+  "name": "@luckynpm/tools",
+  "version": "1.0.0",
+  "description": "tools module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "luckynpm",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckygithuber/js-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luckygithuber/js-tools/issues"
+  },
+  "homepage": "https://github.com/luckygithuber/js-tools#readme"
+}
