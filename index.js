@@ -4,10 +4,9 @@ const arraytools = require('./custom-tool/array-tools.js');
 const timetools = require('./custom-tool/time-tools.js');
 const objecttools = require('./custom-tool/object-tools.js');
 module.exports={
-    ...fileopration,
-    ...ostools,
-    ...arraytools,
-    ...timetools,
-    ...objecttools,
+    fileopration,
+    ostools,
+    arraytools,
+    timetools,
+    objecttools
 }
-
